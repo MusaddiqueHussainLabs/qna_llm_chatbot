@@ -1,0 +1,11 @@
+botbuilder-core
+fastapi[all]
+uvicorn[standard]
+asyncio
+aiohttp
+langchain==0.0.340
+python-dotenv==1.0.0
+google-generativeai
+faiss-cpu
+sentence_transformers
+InstructorEmbedding
